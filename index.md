@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## About Me
+Nida is passionate about problem solving and delivering real-time practical solutions. She is keen in domains like public policies, government reforms, public-private partnerships, strategizing cities, financial and risk assessment for infrastructure projects. She is currently working on urban mobility, real estate assessments, land monetization strategies & tourism focussed masterplans.
 
-You can use the [editor on GitHub](https://github.com/nidahaque/nidahaque.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nidahaque/nidahaque.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+She has completed her Masters in Urban & Regional Planning (infrastructure) from CEPT University.
