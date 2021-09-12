@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                           All Stories:                                                                                                     My very second blog article              :       Today is September 12th, 2021. :                                                                               Nida                12 Sep 2021                                                                                                                                     My very first blog article              :       Today is September 12th, 2021. :                                                                               Nida                12 Sep 2021                                            "
+    "body": "                                                                                                     My very second blog article              :       Today is September 12th, 2021. :                                                                               Nida                12 Sep 2021                                                                                                                                     My very first blog article              :       Today is September 12th, 2021. :                                                                               Nida                12 Sep 2021                                            "
     }, {
     "id": 4,
     "url": "http://localhost:4000/robots.txt",
