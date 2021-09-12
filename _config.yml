@@ -2,8 +2,8 @@
 name: "Nida Haque "
 title: "Urban Strategist"
 description: "An Urban Strategist's blog."
-logo: 'assets/images/me.jpeg'
-favicon: 'assets/images/me.jpeg'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: ''
 siteurl: https://blog.nidahaque.com/
 # google_analytics: 'UA-46278016-1'
