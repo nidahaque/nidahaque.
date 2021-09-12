@@ -5,9 +5,65 @@
     <description>An Urban Strategist's blog.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Sep 2021 21:55:53 +0530</pubDate>
-    <lastBuildDate>Sun, 12 Sep 2021 21:55:53 +0530</lastBuildDate>
+    <pubDate>Sun, 12 Sep 2021 22:06:43 +0530</pubDate>
+    <lastBuildDate>Sun, 12 Sep 2021 22:06:43 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>My very second blog article</title>
+        <description>&lt;p&gt;Today is September 12th, 2021.&lt;/p&gt;
+
+&lt;p&gt;I am setting up my blog, hosted on Github. This is my second article.&lt;/p&gt;
+
+&lt;h1 id=&quot;this-is-a-header&quot;&gt;This is a header&lt;/h1&gt;
+
+&lt;p&gt;I like to &lt;strong&gt;bold&lt;/strong&gt; thing or &lt;em&gt;italic&lt;/em&gt; thing. &lt;code class=&quot;highlighter-rouge&quot;&gt;this is strike&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://google.com&quot;&gt;link to some url&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;this-is-h2-header&quot;&gt;This is H2 header&lt;/h2&gt;
+
+&lt;h3 id=&quot;this-is-h3-header&quot;&gt;This is H3 header&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;this is a list&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;table&lt;/th&gt;
+      &lt;th&gt;table&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;data&lt;/td&gt;
+      &lt;td&gt;data&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;this is block quote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;this is some code.
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 12 Sep 2021 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/my-very-second-blog-article/</link>
+        <guid isPermaLink="true">http://localhost:4000/my-very-second-blog-article/</guid>
+        
+        
+        <category>hello</category>
+        
+      </item>
     
       <item>
         <title>My very first blog article</title>

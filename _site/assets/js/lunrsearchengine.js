@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/",
     "title": "Home",
-    "body": "      Featured:                     All Stories:                                                                                                     My very first blog article              :       Today is September 12th, 2021. :                                                                               Nida                12 Sep 2021                                            "
+    "body": "      Featured:                           All Stories:                                                                                                     My very second blog article              :       Today is September 12th, 2021. :                                                                               Nida                12 Sep 2021                                                                                                                                     My very first blog article              :       Today is September 12th, 2021. :                                                                               Nida                12 Sep 2021                                            "
     }, {
     "id": 4,
     "url": "http://localhost:4000/robots.txt",
@@ -26,6 +26,11 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 5,
+    "url": "http://localhost:4000/my-very-second-blog-article/",
+    "title": "My very second blog article",
+    "body": "2021/09/12 - Today is September 12th, 2021. I am setting up my blog, hosted on Github. This is my second article. This is a headerI like to bold thing or italic thing. this is strike. link to some url This is H2 header: This is H3 header:  this is a list list item      table   table         data   data    this is block quote. 1this is some code. "
+    }, {
+    "id": 6,
     "url": "http://localhost:4000/my-very-first-blog-article/",
     "title": "My very first blog article",
     "body": "2021/09/12 - Today is September 12th, 2021. I am setting up my blog, hosted on Github. "
